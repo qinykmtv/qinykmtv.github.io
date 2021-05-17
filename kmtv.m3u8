@@ -124,7 +124,8 @@ http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 https://flv3948069e.live.126.net:443/live/1ddc050e3c06c99d16f9c4ed7ff49bfe.flv
 #EXTINF:-1 group-title="港澳台频道",TVBS HD
 https://flv3948069e.live.126.net:443/live/63bec65b38eb3d7cf313b5cb0ef39744.flv
-#EXTINF:-1 group-title="港澳台频道",东森新闻https://flv3948069e.live.126.net:443/live/2b772bd4db29b812e99633fc5312ef98.flv
+#EXTINF:-1 group-title="港澳台频道",东森新闻
+https://flv3948069e.live.126.net:443/live/2b772bd4db29b812e99633fc5312ef98.flv
 #EXTINF:-1 group-title="港澳台频道",三立新闻
 https://flv3948069e.live.126.net:443/live/1838c6fc89a6464b775096323e7739ac.flv
 #EXTINF:-1 group-title="港澳台频道",壹新闻
